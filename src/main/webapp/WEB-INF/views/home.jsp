@@ -8,7 +8,7 @@
 <body>
 
 <h1>
-	Hello world!  
+	Hello world!  Spring
 </h1>
 
 <img src="./resources/images/wel.png">
